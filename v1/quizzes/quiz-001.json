@@ -1,0 +1,43 @@
+{
+  "schema_version": 1,
+  "revision": 1,
+  "id": "quiz-001",
+  "lesson_id": "lesson-001",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Напишите перевод слова «Салом» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "Hello",
+      "acceptedAnswers": ["Hi"],
+      "answerType": "text"
+    },
+    {
+      "id": 2,
+      "question": "Сколько букв в английском алфавите?",
+      "imageUrl": null,
+      "correctAnswer": "26",
+      "answerType": "numeric"
+    },
+    {
+      "id": 3,
+      "question": "Выберите перевод слова «Спасибо»:",
+      "imageUrl": null,
+      "options": [
+        "Hello",
+        "Goodbye",
+        "Please",
+        "Thank you"
+      ],
+      "correctIndex": 3,
+      "answerType": "single_choice"
+    },
+    {
+      "id": 4,
+      "question": "Напишите английское название предмета на картинке:",
+      "imageUrl": "https://media.example.com/images/apple.jpg",
+      "correctAnswer": "apple",
+      "answerType": "text"
+    }
+  ]
+}
