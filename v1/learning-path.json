@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "content_version": 1,
+  "content_version": 2,
   "updated_at": "2026-10-27T00:00:00Z",
   "id": "english-from-zero",
   "title": {
@@ -35,6 +35,76 @@
       "lesson_id": "lesson-002",
       "quiz_id": "quiz-002",
       "quiz_path": "quizzes/quiz-002.json"
+    },
+    {
+      "id": "step-003",
+      "order": 3,
+      "lesson_id": "lesson-003",
+      "quiz_id": "quiz-003",
+      "quiz_path": "quizzes/quiz-003.json"
+    },
+    {
+      "id": "step-004",
+      "order": 4,
+      "lesson_id": "lesson-004",
+      "quiz_id": "quiz-004",
+      "quiz_path": "quizzes/quiz-004.json"
+    },
+    {
+      "id": "step-005",
+      "order": 5,
+      "lesson_id": "lesson-005",
+      "quiz_id": "quiz-005",
+      "quiz_path": "quizzes/quiz-005.json"
+    },
+    {
+      "id": "step-006",
+      "order": 6,
+      "lesson_id": "lesson-006",
+      "quiz_id": "quiz-006",
+      "quiz_path": "quizzes/quiz-006.json"
+    },
+    {
+      "id": "step-007",
+      "order": 7,
+      "lesson_id": "lesson-007",
+      "quiz_id": "quiz-007",
+      "quiz_path": "quizzes/quiz-007.json"
+    },
+    {
+      "id": "step-008",
+      "order": 8,
+      "lesson_id": "lesson-008",
+      "quiz_id": "quiz-008",
+      "quiz_path": "quizzes/quiz-008.json"
+    },
+    {
+      "id": "step-009",
+      "order": 9,
+      "lesson_id": "lesson-009",
+      "quiz_id": "quiz-009",
+      "quiz_path": "quizzes/quiz-009.json"
+    },
+    {
+      "id": "step-010",
+      "order": 10,
+      "lesson_id": "lesson-010",
+      "quiz_id": "quiz-010",
+      "quiz_path": "quizzes/quiz-010.json"
+    },
+    {
+      "id": "step-011",
+      "order": 11,
+      "lesson_id": "lesson-011",
+      "quiz_id": "quiz-011",
+      "quiz_path": "quizzes/quiz-011.json"
+    },
+    {
+      "id": "step-012",
+      "order": 12,
+      "lesson_id": "lesson-012",
+      "quiz_id": "quiz-012",
+      "quiz_path": "quizzes/quiz-012.json"
     }
   ]
 }
