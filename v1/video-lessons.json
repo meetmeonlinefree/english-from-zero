@@ -1,0 +1,55 @@
+{
+  "schema_version": 1,
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "title": {
+    "tg": "Ҳамаи видеодарсҳо",
+    "ru": "Все видеоуроки",
+    "en": "All video lessons"
+  },
+  "lessons": [
+    {
+      "id": "lesson-001",
+      "order": 1,
+      "title": {
+        "tg": "Дарси 1. Алифбои англисӣ",
+        "ru": "Урок 1. Английский алфавит",
+        "en": "Lesson 1. English alphabet"
+      },
+      "description": {
+        "tg": "Бо ҳарфҳои алифбои англисӣ шинос шавед.",
+        "ru": "Познакомьтесь с буквами английского алфавита.",
+        "en": "Learn the letters of the English alphabet."
+      },
+      "thumbnail_url": "https://media.example.com/images/lesson-001.jpg",
+      "duration_seconds": 720,
+      "video": {
+        "type": "file",
+        "url": "https://media.example.com/videos/lesson-001.mp4",
+        "mime_type": "video/mp4"
+      }
+    },
+    {
+      "id": "lesson-002",
+      "order": 2,
+      "title": {
+        "tg": "Дарси 2. Салом ва шиносоӣ",
+        "ru": "Урок 2. Приветствие и знакомство",
+        "en": "Lesson 2. Greetings and introductions"
+      },
+      "description_format": "html",
+      "description": {
+        "tg": "<h1>Салом ва шиносоӣ</h1><p>Дар ин дарс шумо салом гуфтанро меомӯзед.</p><img src=\"https://media.example.com/images/greetings.jpg\" alt=\"Салом\" /><table><tr><th>English</th><th>Тоҷикӣ</th></tr><tr><td>Hello</td><td>Салом</td></tr><tr><td>Thank you</td><td>Ташаккур</td></tr></table>",
+        "ru": "<h1>Приветствие и знакомство</h1><p>В этом уроке вы научитесь здороваться.</p><img src=\"https://media.example.com/images/greetings.jpg\" alt=\"Приветствие\" /><table><tr><th>English</th><th>Русский</th></tr><tr><td>Hello</td><td>Привет</td></tr><tr><td>Thank you</td><td>Спасибо</td></tr></table>",
+        "en": "<h1>Greetings and introductions</h1><p>Learn to greet people and introduce yourself.</p><img src=\"https://media.example.com/images/greetings.jpg\" alt=\"Greetings\" /><table><tr><th>Expression</th><th>Meaning</th></tr><tr><td>Hello</td><td>A greeting</td></tr><tr><td>Thank you</td><td>An expression of gratitude</td></tr></table>"
+      },
+      "thumbnail_url": "https://media.example.com/images/lesson-002.jpg",
+      "duration_seconds": 900,
+      "video": {
+        "type": "file",
+        "url": "https://media.example.com/videos/lesson-002.mp4",
+        "mime_type": "video/mp4"
+      }
+    }
+  ]
+}
