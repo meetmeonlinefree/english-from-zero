@@ -1,0 +1,56 @@
+{
+  "schema_version": 1,
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "title": {
+    "tg": "Ҳамаи аудиодарсҳо",
+    "ru": "Все аудиоуроки",
+    "en": "All audio lessons"
+  },
+  "lessons": [
+    {
+      "id": "lesson-001",
+      "order": 1,
+      "title": {
+        "tg": "Дарси 1. Алифбои англисӣ",
+        "ru": "Урок 1. Английский алфавит",
+        "en": "Lesson 1. English alphabet"
+      },
+      "description_format": "html",
+      "description": {
+        "tg": "<h1>Алифбои англисӣ</h1><p>Гӯш кунед ва ҳарфҳоро такрор кунед.</p>",
+        "ru": "<h1>Английский алфавит</h1><p>Слушайте и повторяйте буквы.</p>",
+        "en": "<h1>English alphabet</h1><p>Listen and repeat the letters.</p>"
+      },
+      "thumbnail_url": "https://media.example.com/images/lesson-001.jpg",
+      "audio": {
+        "type": "file",
+        "url": "https://media.example.com/audio/lesson-001.mp3",
+        "mime_type": "audio/mpeg",
+        "duration_seconds": 720
+      }
+    },
+    {
+      "id": "lesson-002",
+      "order": 2,
+      "title": {
+        "tg": "Дарси 2. Салом ва шиносоӣ",
+        "ru": "Урок 2. Приветствие и знакомство",
+        "en": "Lesson 2. Greetings and introductions"
+      },
+      "description_format": "html",
+      "description": {
+        "tg": "<h1>Салом ва шиносоӣ</h1><p>Гӯш кунед ва ибораҳоро такрор кунед.</p><table><tr><th>English</th><th>Тоҷикӣ</th></tr><tr><td>Hello</td><td>Салом</td></tr></table>",
+        "ru": "<h1>Приветствие и знакомство</h1><p>Слушайте и повторяйте выражения.</p><table><tr><th>English</th><th>Русский</th></tr><tr><td>Hello</td><td>Привет</td></tr></table>",
+        "en": "<h1>Greetings and introductions</h1><p>Listen and repeat the expressions.</p><ul><li>Hello!</li><li>My name is Ali.</li></ul>"
+      },
+      "thumbnail_url": "https://media.example.com/images/lesson-002.jpg",
+      "audio": {
+        "type": "file",
+        "url": "https://media.example.com/audio/lesson-002.mp3",
+        "mime_type": "audio/mpeg",
+        "duration_seconds": 900
+      }
+    }
+  ]
+}
