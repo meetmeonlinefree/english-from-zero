@@ -1,0 +1,40 @@
+{
+  "schema_version": 1,
+  "content_version": 1,
+  "updated_at": "2026-10-27T00:00:00Z",
+  "id": "english-from-zero",
+  "title": {
+    "tg": "Омӯзишро оғоз кунед",
+    "ru": "Начать обучение",
+    "en": "Start learning"
+  },
+  "description_format": "html",
+  "description": {
+    "tg": "<p>Видеоро тамошо кунед, ба саволҳо ҷавоб диҳед ва дарси навбатиро кушоед.</p>",
+    "ru": "<p>Смотрите видео, отвечайте на вопросы и открывайте следующие уроки.</p>",
+    "en": "<p>Watch videos, answer questions and unlock the next lessons.</p>"
+  },
+  "video_catalog_path": "video-lessons.json",
+  "rules": {
+    "require_video_completion": true,
+    "required_watch_percentage": 90,
+    "quiz_pass_percentage": 100,
+    "unlimited_quiz_attempts": true
+  },
+  "steps": [
+    {
+      "id": "step-001",
+      "order": 1,
+      "lesson_id": "lesson-001",
+      "quiz_id": "quiz-001",
+      "quiz_path": "quizzes/quiz-001.json"
+    },
+    {
+      "id": "step-002",
+      "order": 2,
+      "lesson_id": "lesson-002",
+      "quiz_id": "quiz-002",
+      "quiz_path": "quizzes/quiz-002.json"
+    }
+  ]
+}
