@@ -1,6 +1,12 @@
 {
   "news": [
     {
+      "title": "Исмоилчон дарса хон",
+      "body": "Следите за новостями в нашем Telegram-канале: https://t.me/dovtalabonline",
+      "url": "https://t.me/dovtalabonline",
+      "send_push": true
+    },
+    {
       "title": "➤ Telegram | 💰 Hamyon Online | Курсы валют",
       "body": "Следите за новостями в нашем Telegram-канале: https://t.me/hamyononline",
       "url": "https://t.me/hamyononline",
