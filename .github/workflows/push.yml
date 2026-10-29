@@ -60,5 +60,3 @@ jobs:
         run: |
 
           python scripts/send_push.py
-
-
