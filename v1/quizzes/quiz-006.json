@@ -1,0 +1,233 @@
+
+{
+  "schema_version": 1,
+  "revision": 1,
+  "id": "quiz-006",
+  "lesson_id": "lesson-006",
+  "questions": [
+    {
+      "id": 1,
+      "question": "Напишите перевод предложения «Он хочет это сделать» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He wants to do it",
+      "answerType": "text"
+    },
+    {
+      "id": 2,
+      "question": "Напишите перевод предложения «Она смотрит телевизор» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She watches TV",
+      "answerType": "text"
+    },
+    {
+      "id": 3,
+      "question": "Напишите перевод предложения «У неё есть кошка» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She has a cat",
+      "answerType": "text"
+    },
+    {
+      "id": 4,
+      "question": "Напишите перевод предложения «Она всегда делает это вовремя» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She always does it on time",
+      "answerType": "text"
+    },
+    {
+      "id": 5,
+      "question": "Напишите перевод предложения «Она ходит в школу» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She goes to school",
+      "answerType": "text"
+    },
+    {
+      "id": 6,
+      "question": "Напишите перевод предложения «Он делает это каждый день» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He does it every day",
+      "answerType": "text"
+    },
+    {
+      "id": 7,
+      "question": "Напишите перевод предложения «Он скучает по тебе» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He misses you",
+      "answerType": "text"
+    },
+    {
+      "id": 8,
+      "question": "Напишите перевод предложения «Иногда она ходит в кино» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She sometimes goes to the cinema",
+      "answerType": "text"
+    },
+    {
+      "id": 9,
+      "question": "Напишите перевод предложения «Иногда он играет в компьютерные игры» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He sometimes plays computer games",
+      "answerType": "text"
+    },
+    {
+      "id": 10,
+      "question": "Напишите перевод предложения «У него есть собака» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He has a dog",
+      "answerType": "text"
+    },
+    {
+      "id": 11,
+      "question": "Напишите перевод предложения «Она преподаёт это» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She teaches it",
+      "answerType": "text"
+    },
+    {
+      "id": 12,
+      "question": "Напишите перевод предложения «Он пытается найти работу» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He tries to find a job",
+      "answerType": "text"
+    },
+    {
+      "id": 13,
+      "question": "Напишите перевод предложения «Он идёт на работу» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He goes to work",
+      "answerType": "text"
+    },
+    {
+      "id": 14,
+      "question": "Напишите перевод предложения «Она чувствует себя такой счастливой» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She feels so happy",
+      "answerType": "text"
+    },
+    {
+      "id": 15,
+      "question": "Напишите перевод предложения «У неё интересные идеи» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She has interesting ideas",
+      "answerType": "text"
+    },
+    {
+      "id": 16,
+      "question": "Напишите перевод предложения «Он часто ходит в кино» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He often goes to the cinema",
+      "answerType": "text"
+    },
+    {
+      "id": 17,
+      "question": "Напишите перевод предложения «Иногда ему хочется это сделать» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He sometimes wants to do it",
+      "answerType": "text"
+    },
+    {
+      "id": 18,
+      "question": "Напишите перевод предложения «Она скучает по тебе» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She misses you",
+      "answerType": "text"
+    },
+    {
+      "id": 19,
+      "question": "Напишите перевод предложения «Он пытается это сделать» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He tries to do it",
+      "answerType": "text"
+    },
+    {
+      "id": 20,
+      "question": "Напишите перевод предложения «Она хочет пойти в парк» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She wants to go to the park",
+      "answerType": "text"
+    },
+    {
+      "id": 21,
+      "question": "Напишите перевод предложения «У него есть деньги» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He has money",
+      "answerType": "text"
+    },
+    {
+      "id": 22,
+      "question": "Напишите перевод предложения «У неё есть машина» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She has a car",
+      "answerType": "text"
+    },
+    {
+      "id": 23,
+      "question": "Напишите перевод предложения «Он пытается мне помочь» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He tries to help me",
+      "answerType": "text"
+    },
+    {
+      "id": 24,
+      "question": "Напишите перевод предложения «У него есть доллары» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He has dollars",
+      "answerType": "text"
+    },
+    {
+      "id": 25,
+      "question": "Напишите перевод предложения «У него есть предложение» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He has an offer",
+      "answerType": "text"
+    },
+    {
+      "id": 26,
+      "question": "Напишите перевод предложения «Он преподаёт английский язык» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He teaches English",
+      "answerType": "text"
+    },
+    {
+      "id": 27,
+      "question": "Напишите перевод предложения «Она пытается выучить английский» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She tries to learn English",
+      "answerType": "text"
+    },
+    {
+      "id": 28,
+      "question": "Напишите перевод предложения «У него есть дом» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He has a house",
+      "answerType": "text"
+    },
+    {
+      "id": 29,
+      "question": "Напишите перевод предложения «Она делает это очень хорошо» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She does it very well",
+      "answerType": "text"
+    },
+    {
+      "id": 30,
+      "question": "Напишите перевод предложения «Он часто играет в компьютерные игры» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "He often plays computer games",
+      "answerType": "text"
+    },
+    {
+      "id": 31,
+      "question": "Напишите перевод предложения «Она пытается это понять» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She tries to understand it",
+      "answerType": "text"
+    },
+    {
+      "id": 32,
+      "question": "Напишите перевод предложения «Она часто ходит в парк» на английский:",
+      "imageUrl": null,
+      "correctAnswer": "She often goes to the park",
+      "answerType": "text"
+    }
+  ]
+}
