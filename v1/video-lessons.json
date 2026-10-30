@@ -45,7 +45,7 @@
         "en": "<h1>Lesson 1-1</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": "https://i.ytimg.com/vi/Hp9wUEDasY4/hqdefault.jpg?sqp=-oaymwEnCPYBEIoBSFryq4qpAxkIARUAAIhCGAHYAQHiAQoIGBACGAY4AUAB&rs=AOn4CLBcmxhsfk1LZ952u_VWyYFZ9XeIMg",
-      "duration_seconds": 900,
+      "duration_seconds": 60,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/1_1.mp4",
@@ -67,7 +67,7 @@
         "en": "<h1>Lesson 2</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/2.mp4",
@@ -89,7 +89,7 @@
         "en": "<h1>Lesson 2-1</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/2_1.mp4",
@@ -111,7 +111,7 @@
         "en": "<h1>Lesson 3</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/3.mp4",
@@ -133,7 +133,7 @@
         "en": "<h1>Lesson 3-1</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/3_1.mp4",
@@ -155,7 +155,7 @@
         "en": "<h1>Lesson 4</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/4.mp4",
@@ -177,7 +177,7 @@
         "en": "<h1>Lesson 4-1</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/4_1.mp4",
@@ -199,7 +199,7 @@
         "en": "<h1>Lesson 5</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/5.mp4",
@@ -221,7 +221,7 @@
         "en": "<h1>Lesson 5-1</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/5_1.mp4",
@@ -243,7 +243,7 @@
         "en": "<h1>Lesson 5-2</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/5_2.mp4",
@@ -265,7 +265,7 @@
         "en": "<h1>Lesson 5-3</h1><p>A video lesson from the English from Zero to Automaticity course.</p>"
       },
       "thumbnail_url": null,
-      "duration_seconds": null,
+      "duration_seconds": 30,
       "video": {
         "type": "file",
         "url": "https://raw.githubusercontent.com/meetmeonlinefree/english-from-zero-content/refs/heads/main/media/video/5_3.mp4",
